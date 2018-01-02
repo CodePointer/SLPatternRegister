@@ -1,0 +1,8 @@
+.idea/
+cmake-build-debug/
+cmake-build-release/
+xpro_mat0.txt
+ypro_mat0.txt
+mask.txt
+img.png
+img_obs.png
